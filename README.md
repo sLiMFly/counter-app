@@ -25,6 +25,8 @@ To get started with the Counter App, follow these steps:
 
 ## Screenshots
 
-<img src="./screenshots/counter-app.png" alt="Counter App Screenshot" width="300"/>
+<p align="center">
+    <img src="./screenshots/counter-app.png" alt="Counter App Screenshot" width="300"/>
+</p>
 
 **Happy Counting!**
