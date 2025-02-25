@@ -1,8 +1,6 @@
 # Counter App
 
-## Description
-
-**Counter App** is a simple and elegant counter application built using React Native. This app allows users to increment and reset a counter.
+**Counter App** is a simple counter application built using React Native. This app allows users to increment and reset a counter.
 
 ## Installation
 
@@ -27,6 +25,6 @@ To get started with the Counter App, follow these steps:
 
 ## Screenshots
 
-![Counter App Screenshot](./screenshots/counter-app.png)
+<img src="./screenshots/counter-app.png" alt="Counter App Screenshot" width="300"/>
 
 **Happy Counting!**
